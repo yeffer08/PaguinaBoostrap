@@ -1,0 +1,27 @@
+body{
+	background: #eaefee;
+}
+#navbar{
+    font-size:20px;
+}
+#logo img{
+    border-radius: 20px;
+    width:70px;
+}
+
+#carouselExampleInterval{
+    background: #fdffff;
+}
+#carouselExampleInterval img{
+    object-fit: scale-down;
+    height:400px;
+}
+#cards-ropa img{
+    margin: 20px auto 20px auto ;
+    
+    width:75%;
+    height: 280px;
+}
+#footer h6{
+    color: black;
+}
